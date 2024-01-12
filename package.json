@@ -1,0 +1,24 @@
+{
+  "name": "documenti-concorsi-gdf",
+  "version": "1.0.0",
+  "description": "Elenca i documenti di un concorso indetto dalla Guardia di Finanza.",
+  "main": "main.js",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alex-sandri/documenti-concorsi-gdf.git"
+  },
+  "author": {
+    "name": "Alex Sandri",
+    "email": "me@alexsandri.com",
+    "url": "https://alexsandri.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alex-sandri/documenti-concorsi-gdf/issues"
+  },
+  "homepage": "https://github.com/alex-sandri/documenti-concorsi-gdf#readme",
+  "dependencies": {
+    "puppeteer": "^21.7.0"
+  }
+}
